@@ -1,0 +1,9 @@
+models/model.pkl
+models/columns.pkl
+.venv/
+__pycache__/
+.DS_Store
+
+
+
+
